@@ -1,16 +1,27 @@
-<!-- ██████████████████  ANIMATED HEADER  ██████████████████ -->
+<!-- ╔═══════════════════════════════════════════════════╗ -->
+<!-- ║         JATIN VIRMANI — GITHUB PROFILE            ║ -->
+<!-- ╚═══════════════════════════════════════════════════╝ -->
+
+
+<!-- ██████████████████  ANIMATED HEADER  ██████████████████
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,20,24&height=200&section=header&text=Hey%2C%20I'm%20Jatin!%20%F0%9F%91%8B&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Competitive%20Programmer%20%7C%20Full-Stack%20Dev%20%7C%20ML%20Enthusiast&descAlignY=60&descColor=c9d1d9&descSize=18" />
+</div> -->
+
+<!-- ██  HEADER  ██ -->
+<div align="center">
+  <img src="./assets/header.svg" width="100%" alt="Jatin Virmani — Terminal Header"/>
 </div>
 
-<!-- ██████████████████  TYPING ANIMATION  ██████████████████ -->
+<br/>
+
+<!-- ██  TYPING SVG — code-flavoured  ██ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=700&lines=Competitive+Programmer+%F0%9F%8F%86+%7C+CodeChef+2%E2%98%85+%281411%29;Full-Stack+Dev+%7C+Next.js+14+%7C+FastAPI+%7C+PostgreSQL;Building+Eduvance+ERP+%E2%80%94+live+%26+deployed+%F0%9F%9B%A0;Contest+Coordinator+%40+CCMRU+Coding+Club;B.Tech+CSE+%7C+MRU+%7C+CGPA%3A+9.12+%7C+2%C3%97+Dean%27s+List+%F0%9F%8E%93;ML+Enthusiast+%7C+XGBoost+%7C+LightGBM+%7C+dlib;Code.+Build.+Compete.+Repeat.+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2600&pause=800&color=39D353&center=true&vCenter=true&width=740&lines=for+(auto%26+prob+%3A+codeforces)+%7B+solve(prob)%3B+%7D+%2F%2F+300%2B+done;git+push+origin+main+--force+%2F%2F+don't+judge+me+%F0%9F%98…;Eduvance+ERP+%E2%80%94+deployed+live+on+Vercel+%2B+Render+%F0%9F%9B%A0;auto+[ans%2C+key]+%3D+solve()%3B+%2F%2F+greedy+was+right+again;CodeChef+2%E2%98%85+%7C+Codeforces+%7C+LeetCode+%7C+Always+Grinding+%F0%9F%94%A5;if+(CGPA+%3E%3D+9.12+%26%26+deanslist+%3D%3D+2)+keep_going()%3B" alt="Typing SVG"/>
 </p>
 
 <!-- ██████████████████  BADGE ROW  ██████████████████ -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jatin-Virmani&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
   &nbsp;
   <a href="https://www.codechef.com/users/jatin_v26">
     <img src="https://img.shields.io/badge/CodeChef-2★%20|%20Rating%3A%201411-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
@@ -78,10 +89,10 @@ fun_fact: >
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60" /><br/><br/>
     <b>📚 Leveling Up</b><br/><br/>
     <b>DSA + ML</b><br/>
-    <sub>DP,Trees & Graph Algorithms • Ensemble Methods<br/>Codeforces, Codechef & Leetcode</sub>
+    <sub>DP, Trees & Graph Algorithms • Ensemble Methods<br/>Codeforces, Codechef & Leetcode</sub>
   </td>
   <td align="center" width="33%">
-    <img src="https://media.giphy.com/media/3o7btQ8jDTPM5qzBqo/giphy.gif" width="60" /><br/><br/>
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmpvdGlvaDlnc3E2NmxxNHYxdnJrNnlvMzY5Zzg4bnM3bWN6ZnNiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASaHTrbhpkF2ENm0uT/giphy.gif" width="60" /><br/><br/>
     <b>🎯 Targeting</b><br/><br/>
     <b>Tech Internships</b><br/>
     <sub>SDE • AI/ML • Problem Solver<br/></sub>
@@ -234,7 +245,26 @@ fun_fact: >
 <br/>
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/jatin_v26?theme=dark&font=JetBrains%20Mono&ext=heatmap&border=0&radius=20&width=500" alt="LeetCode Stats" />
+
+<table border="0">
+<tr>
+<td align="center" valign="top">
+
+**Codeforces**
+
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=jatin_v26&theme=dark&show_icons=true&border_color=30363d&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=e6edf3" alt="Codeforces Stats" width="340"/>
+
+</td>
+<td align="center" valign="top">
+
+**LeetCode**
+
+<img src="https://leetcard.jacoblin.cool/jatin_v26?theme=dark&font=JetBrains+Mono&ext=heatmap&border=0&radius=10" alt="LeetCode Stats" width="340"/>
+
+</td>
+</tr>
+</table>
+
 </div>
 
 <br/>
@@ -245,13 +275,13 @@ fun_fact: >
 |:---|:---|
 | 🥉 **Code Clash** | 3rd Place — Intra-college CP competition |
 | 🏆 **Contest Coordinator** | CCMRU Coding Club — Organized & conducted contests |
-| 🇮🇳 **Smart India Hackathon** | SIH Participant — National-level hackathon |
-| ⚡ **HackMor** | Participant — State-level hackathon |
+| 📚 **300+ Problems** | Solved across Codeforces · CodeChef · LeetCode |
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<br/>
 
+---
 <!-- ██████████████████  ACTIVITY GRAPH  ██████████████████ -->
 <h2 align="center">📈 Contribution Activity</h2>
 
@@ -265,7 +295,7 @@ fun_fact: >
 <h2 align="center">🤝 Let's Connect & Collaborate</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/jatin-virmani-65a855343">
+  <a href="https://linkedin.com/in/Jatin-Virmani-65a855343">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
