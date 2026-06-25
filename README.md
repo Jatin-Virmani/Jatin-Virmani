@@ -15,9 +15,8 @@
 
 <br/>
 
-<!-- ██  TYPING SVG — code-flavoured  ██ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2600&pause=800&color=39D353&center=true&vCenter=true&width=740&lines=for+(auto%26+prob+%3A+codeforces)+%7B+solve(prob)%3B+%7D+%2F%2F+300%2B+done;git+push+origin+main+--force+%2F%2F+don't+judge+me+%F0%9F%98…;Eduvance+ERP+%E2%80%94+deployed+live+on+Vercel+%2B+Render+%F0%9F%9B%A0;auto+[ans%2C+key]+%3D+solve()%3B+%2F%2F+greedy+was+right+again;CodeChef+2%E2%98%85+%7C+Codeforces+%7C+LeetCode+%7C+Always+Grinding+%F0%9F%94%A5;if+(CGPA+%3E%3D+9.12+%26%26+deanslist+%3D%3D+2)+keep_going()%3B" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2600&pause=800&color=39D353&center=true&vCenter=true&width=740&lines=Competitive+Programmer+%7C+Full-Stack+Dev+%7C+ML;CodeChef+2%E2%98%85+%7C+Codeforces+%7C+LeetCode+300%2B;Building+Eduvance+ERP+on+Vercel+%2B+Render+%F0%9F%9B%A0;B.Tech+CSE+%40+MRU+%7C+CGPA+9.12+%7C+2x+Deans+List;Contest+Coordinator+%40+CCMRU+Coding+Club" alt="Typing SVG"/>
 </p>
 
 <!-- ██████████████████  BADGE ROW  ██████████████████ -->
@@ -325,5 +324,5 @@ fun_fact: >
 <!-- ██████████████████  FOOTER  ██████████████████ -->
 <br/>
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,20,24&height=120&section=footer" />
+  <img src="./assets/footer.svg" width="100%" alt="footer"/>
 </div>
