@@ -281,14 +281,6 @@ fun_fact: >
 <br/>
 
 ---
-<!-- ██████████████████  ACTIVITY GRAPH  ██████████████████ -->
-<h2 align="center">📈 Contribution Activity</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jatin-Virmani&theme=react-dark&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&hide_border=true&area=true&area_color=1f6feb&custom_title=Jatin's%20Contribution%20Graph" width="100%" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ██████████████████  CONNECT  ██████████████████ -->
 <h2 align="center">🤝 Let's Connect & Collaborate</h2>
